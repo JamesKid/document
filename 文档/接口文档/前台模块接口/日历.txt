@@ -1,0 +1,9 @@
+HTML模板
+
+<input data-type="rili" type="text">
+
+JS API例子(一般不会用到)
+
+app.preventGenCalendar();	//阻止自动应用日历模块（在文档就绪事件**前**调用）
+
+app.genCalendar();	//重新应用日历模块（在文档就绪事件**后**调用）

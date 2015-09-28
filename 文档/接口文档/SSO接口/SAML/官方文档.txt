@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/SAML_2.0
+
+https://simplesamlphp.org/

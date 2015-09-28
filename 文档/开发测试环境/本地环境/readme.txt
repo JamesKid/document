@@ -1,0 +1,1 @@
+请把main-local.php和params-local.php复制到SourceCode\common\config目录下

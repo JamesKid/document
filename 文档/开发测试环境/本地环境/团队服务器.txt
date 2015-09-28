@@ -1,0 +1,15 @@
+# 应用url:
+	http://jameskid.6655.la:45724/
+
+
+# ssh
+	# 登录url
+		路径：jjameskid.6655.la  
+		端口：53831
+	# 用户
+		yangtiankun 
+		ytk77293
+		guohongnian
+		ghn77293
+# 团队项目目录
+	/var/www/team/
